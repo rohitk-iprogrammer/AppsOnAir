@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppsOnAir</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ItWIz-0paQiJ4mqmB0PS5cppEYooEJMoUl7gzl</string>
+    <string moduleConfig="true" name="CodePushServerUrl">https://codepush.appsonair.com</string>
 </resources>
